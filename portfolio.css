@@ -84,7 +84,7 @@ footer {
   padding: 0.5rem 0.9rem;
   border: 2px solid blue;
   border-radius: 0.3rem;
-  background-color: rgb(189, 211, 200);
+  background-color: rgb(31, 25, 25);
   cursor: pointer;
   animation: boom2 1s 1s infinite alternate;
   animation-timing-function: cubic-bezier(0, 4.26, 0.66, -0.62);
@@ -146,7 +146,7 @@ img {
 }
 #imgProject .img{
   padding: .2rem;
-  background-color: rgba(228, 217, 216, 0.452);
+  background-color: rgb(31, 25, 25);
   border: 3px solid rgb(137, 137, 245);
   border-radius: .2rem;
   display: flex;
@@ -183,17 +183,18 @@ img {
   display: none;
   margin:0;
   border: 3px solid rgb(137, 137, 245);
-  background-color: rgba(228, 217, 216, 0.452);
+  background-color: rgb(31, 25, 25);
 }
 .tab-content h3 {
   margin: .3rem .4rem;
+  color: rgb(3, 231, 90)
 }
 .tab-content p {
   margin: .6rem .4rem 3rem;
 }
 .default-open {
   display: block;
-  background-color: rgba(228, 217, 216, 0.452);
+  background-color: rgb(31, 25, 25);
 }
 
 #objectives div, #techStackUsed div {
@@ -215,8 +216,8 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: .3rem .5rem;
-  background-color: rgba(228, 217, 216, 0.452);
+  padding: .5rem 1.2rem .7rem;
+  background-color: rgb(31, 25, 25);
   margin-right: .3rem;
   cursor: pointer;
   border: 3px solid rgb(137, 137, 245);
