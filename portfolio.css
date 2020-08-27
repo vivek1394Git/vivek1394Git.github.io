@@ -91,7 +91,7 @@ section div {
   font-size: 1.2rem;
   margin-bottom: 3rem;
   margin-top: 1rem;
-  color: rgb(63, 161, 253)
+  /* color: rgb(0, 0, 0); */
 }
 
 #techStack {
@@ -260,6 +260,6 @@ footer div {
 }
 @media (max-width: 330px) {
   .tab-link {
-    border-right: 3px solid rgb(137, 137, 245);
+    border-bottom: 3px solid rgb(137, 137, 245);
   }
 }
