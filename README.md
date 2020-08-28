@@ -1,5 +1,5 @@
 # My Portfolio Website
-### Visit the website: https://vivek1394Git.gihub.io
+### Visit the website: https://vivek1394Git.github.io
 
 ## Tech Stack:
 
